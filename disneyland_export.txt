@@ -1,0 +1,18 @@
+Park: Disneyland_HongKong
+Number of reviews: 9617
+Positive reviews: 7744
+Average rating: 4.2
+Countries reviewed: 115
+----------------------------------------
+Park: Disneyland_California
+Number of reviews: 19406
+Positive reviews: 16499
+Average rating: 4.41
+Countries reviewed: 111
+----------------------------------------
+Park: Disneyland_Paris
+Number of reviews: 13629
+Positive reviews: 9674
+Average rating: 3.96
+Countries reviewed: 132
+----------------------------------------
